@@ -98,8 +98,8 @@ hr {
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	background-color: rgba(248, 248, 248, 0);
-	border-color: rgba(231, 231, 231, 0);
+	background-color: rgba(3, 39, 49, .6);
+	border-color: rgba(231, 231, 231, 0.6);
 }
 #menu a.navbar-brand {
 	text-transform: uppercase;
